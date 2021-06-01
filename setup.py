@@ -7,7 +7,7 @@ with open("README.md", "r") as readme_file:
 
 setup(
     name="pysqldq",
-    version="0.0.1",
+    version="0.0.2",
     author="Akshay Katre",
     author_email="akshaykatre@gmail.com",
     description="A library to create dynamic SQL data quality checks",
